@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **AWS Cloud services, Deep Learning with NLP**
 
-- 👯 I’m looking to collaborate on **Data Science, ML and Frontend projects**
+- 👯 I’m looking to collaborate on **Data Science, ML and Frontend projects** 
+     Reach out to me: sammriddhgupta@gmail.com 
 
 - 💬 Ask me about **Python and Data Science!**
 
