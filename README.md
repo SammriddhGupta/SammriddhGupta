@@ -5,18 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammriddhgupta" alt="sammriddhgupta" /></a> </p>
 
-- 🔭 I’m currently working on **A driver drowsiness detection system**
+- 🔭 I’m currently working on: **A driver drowsiness detection system**
 
-- 🌱 I’m currently learning **AWS Cloud services, Deep Learning with NLP**
+- 🌱 I’m currently learning: **AWS Cloud services, Deep Learning with NLP**
 
-- 👯 I’m looking to collaborate on **Data Science, ML and Frontend projects** 
-     Reach out to me: sammriddhgupta@gmail.com 
+- 👯 I’m looking to collaborate on: **Data Science, ML and Frontend projects** 
+     
+- 📧 Reach out to me: sammriddhgupta@gmail.com 
 
-- 💬 Ask me about **Python and Data Science!**
+- 💬 Ask me about: **Python and Data Science!**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xhiO5Kq6C6bafUkCcOG2vomitLl2AgDt/view?usp=sharing](https://drive.google.com/file/d/1xhiO5Kq6C6bafUkCcOG2vomitLl2AgDt/view?usp=sharing)
+- 📄 Know about my experience: [https://drive.google.com/file/d/1xhiO5Kq6C6bafUkCcOG2vomitLl2AgDt/view?usp=sharing](https://drive.google.com/file/d/1xhiO5Kq6C6bafUkCcOG2vomitLl2AgDt/view?usp=sharing)
 
-- ⚡ Fun fact **I love anime, reading, Marvel and trying out new things, so hmu with whatever you got :)**
+- ⚡ Fun fact: **I love anime, reading, Marvel and keeping up with new tech, so hmu with whatever you got :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
