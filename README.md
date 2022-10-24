@@ -31,6 +31,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammriddhgupta&layout=compact&align=center)](https://github.com/sammriddhgupta/github-readme-stats)
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammriddhgupta&show_icons=true&locale=en" alt="sammriddhgupta" /></p>
+<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sammriddhgupta&show_icons=true&locale=en" alt="sammriddhgupta" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammriddhgupta&" alt="sammriddhgupta" /></p>
+<br>
+
+<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sammriddhgupta&" alt="sammriddhgupta" /></p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<h3 align="left">Checkout my Holopin Board:</h3>
+
+[![@sammriddh's Holopin board](https://holopin.me/sammriddh)](https://holopin.io/@sammriddh)
