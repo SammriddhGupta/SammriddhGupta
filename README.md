@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sammriddh Gupta</h1>
-<h3 align="center">CSE Student | Data scientist | Frontend Web Developer</h3>
+<h3 align="center">CSE Student | Aspiring Machine Learning Engineer | Frontend Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammriddhgupta&label=Profile%20views&color=0e75b6&style=flat" alt="sammriddhgupta" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sammriddhgupta&theme=onedark&row=1&column=8&margin-w=3&margin-h=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on: **A driver drowsiness detection system**
+- 🔭 I’m currently working on: **An anime recommendation webapp**
 
-- 🌱 I’m currently learning: **AWS Cloud services, Deep Learning with NLP**
+- 🌱 I’m currently learning: **Docker, MLOps, Deep Learning with NLP**
 
 - 👯 I’m looking to collaborate on: **Data Science, ML and Frontend projects** 
      
 - 📧 Reach out to me: sammriddhgupta@gmail.com 
 
-- 💬 Ask me about: **Python and Data Science!**
+- 💬 Ask me about: **Machine Learning and Data Science!**
 
-- 📄 Know about my experience: [https://drive.google.com/file/d/1xhiO5Kq6C6bafUkCcOG2vomitLl2AgDt/view?usp=sharing](https://drive.google.com/file/d/1xhiO5Kq6C6bafUkCcOG2vomitLl2AgDt/view?usp=sharing)
-
-- ⚡ Fun fact: **I love anime, reading, Marvel and keeping up with new tech, so hmu with whatever you got :)**
+- ⚡ Fun fact: **I love hackathons, nature, making fun projects, anime, reading, Marvel and keeping up with new tech, so hmu with whatever you got :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
