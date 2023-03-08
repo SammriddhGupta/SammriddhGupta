@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sammriddh Gupta</h1>
 <h3 align="center">Software Engineering Student | Aspiring Machine Learning Engineer | Frontend Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sammriddhgupta&label=Profile%20views&color=0e75b6&style=flat" alt="sammriddhgupta" /> </p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=sammriddhgupta&theme=onedark&row=1&column=8&margin-w=3&margin-h=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on: **An anime recommendation webapp**
@@ -36,7 +34,3 @@
 <p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sammriddhgupta&" alt="sammriddhgupta" /></p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<h3 align="left">Checkout my Holopin Board:</h3>
-
-[![@sammriddh's Holopin board](https://holopin.me/sammriddh)](https://holopin.io/@sammriddh)
