@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sammriddh Gupta</h1>
-<h3 align="center">Software Engineering Student | Aspiring Machine Learning Engineer | Frontend Web Developer</h3>
+<h3 align="center">Software Engineering Student | Aspiring Machine Learning Engineer | Full Stack Developer</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sammriddhgupta&theme=onedark&row=1&column=8&margin-w=3&margin-h=3)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **Docker, MLOps, Deep Learning with NLP**
 
-- 👯 I’m looking to collaborate on: **Data Science, ML and Frontend projects** 
+- 👯 I’m looking to collaborate on: **Data Science, ML and full stack Software projects** 
      
 - 📧 Reach out to me: sammriddhgupta@gmail.com 
 
