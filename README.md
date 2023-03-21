@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sammriddhgupta&theme=onedark&row=1&column=8&margin-w=3&margin-h=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on: **An anime recommendation webapp**
+- 🔭 I’m currently working on: **An E-Invoicing Application**
 
 - 🌱 I’m currently learning: **Docker, MLOps, Deep Learning with NLP**
 
