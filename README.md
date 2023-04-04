@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sammriddh Gupta</h1>
 <h3 align="center">Software Engineering Student | Aspiring Machine Learning Engineer | Full Stack Developer</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sammriddhgupta&theme=onedark&row=1&column=8&margin-w=3&margin-h=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sammriddhgupta&theme=onedark&row=1&column=8&margin-w=3&margin-h=3)](https://github.com/ryo-ma&title=MultiLanguage,Commits,Repositories,Stars,Issues,PullRequest,Followers/github-profile-trophy)
 
 - 🔭 I’m currently working on: **An E-Invoicing Application**
 
