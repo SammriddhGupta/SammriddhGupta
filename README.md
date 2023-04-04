@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sammriddh Gupta</h1>
 <h3 align="center">Software Engineering Student | Aspiring Machine Learning Engineer | Full Stack Developer</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sammriddhgupta&theme=tokyonight&row=2&column=3&margin-w=4&margin-h=4&title=Commits,Repositories,Stars,Issues,PullRequest,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sammriddhgupta&theme=tokyonight&column=-1&margin-w=4&margin-h=4&title=Commits,Repositories,Stars,Issues,PullRequest,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 🔭 I’m currently working on: **An E-Invoicing Application**
 
@@ -29,7 +30,7 @@
 
 <p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sammriddhgupta&show_icons=true&locale=en" alt="sammriddhgupta" /></p>
 
-<br>
+<br><br>
 
 <p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sammriddhgupta&" alt="sammriddhgupta" /></p>
 
