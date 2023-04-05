@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact: **I love hackathons, nature, making fun projects, anime, reading, Marvel and keeping up with new tech, so hmu with whatever you got :)**
 
+- 👀 Psst....despite the alarming number of Jupyter Notebooks in my repo, I have deployment experience too
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sammriddh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sammriddh" height="30" width="40" /></a>
