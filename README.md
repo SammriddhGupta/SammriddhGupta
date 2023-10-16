@@ -4,7 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sammriddhgupta&theme=tokyonight&column=-1&margin-w=4&margin-h=4&title=Commits,Repositories,Stars,Issues,PullRequest,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- 🔭 I’m currently working on: **A Langchain pet name generator**
+- 🔭 I’m currently working on: **A Deep Learning project🤫**
 
 - 🌱 I’m currently learning: **Docker, MLOps, Deep Learning with NLP**
 
