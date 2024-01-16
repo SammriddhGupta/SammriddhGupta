@@ -4,19 +4,19 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sammriddhgupta&theme=tokyonight&column=-1&margin-w=4&margin-h=4&title=Commits,Repositories,Stars,Issues,PullRequest,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- 🔭 I’m currently working on: **An Image Captioning project🌆**
+- 🔭 I’m currently working on: **A Langchain PDF chatbot🤖**
 
-- 🌱 I’m currently learning: **Docker, MLOps, Deep Learning with NLP**
+- 🌱 I’m currently learning: **Infrastructure as Code, React and MLOps**
 
 - 👯 I’m looking to collaborate on: **Data Science, ML and full stack Software projects** 
      
 - 📧 Reach out to me: sammriddhgupta@gmail.com 
 
-- 💬 Ask me about: **Machine Learning and Data Science!**
+- 💬 Ask me about: **Software Engineering, Machine Learning and Data Science!**
 
 - ⚡ Fun fact: **I love hackathons, nature, making fun projects, anime, reading, Marvel and keeping up with new tech, so hmu with whatever you got :)**
 
-- 👀 Psst....despite the alarming number of Jupyter Notebooks in my repo, I have deployment experience too
+- 👀 Psst....despite the alarming number of Jupyter Notebooks in my repos, I have deployment experience too
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
