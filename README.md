@@ -48,8 +48,10 @@
      
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammriddhgupta&show_icons=true&theme=dark&locale=en&layout=compact" alt="sammriddhgupta" width="auto" height="auto" /></p>
+<p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sammriddhgupta&show_icons=true&count_private=true&theme=dark&locale=en" alt="sammriddhgupta" width="auto" height="auto" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sammriddhgupta&show_icons=true&theme=dark&locale=en" alt="sammriddhgupta" width="auto" height="auto" /></p>
+<br>
+     <p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammriddhgupta&show_icons=true&count_private=true&langs_count=8&theme=dark&locale=en&layout=compact&card_width=460" alt="sammriddhgupta" width="auto" height="auto" /></p>
+<br>
 
-<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sammriddhgupta&theme=dark" alt="sammriddhgupta" width="auto" height="auto" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sammriddhgupta&theme=dark" alt="sammriddhgupta" width="auto" height="auto" /></p>
