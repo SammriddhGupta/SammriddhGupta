@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sammriddh Gupta</h1>
-<h3 align="center">Software Engineering Student | Aspiring Machine Learning Engineer | Full Stack Developer</h3>
+<h3 align="center">Software Engineering Student | Machine Learning Enthusiast | Full Stack Developer</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sammriddhgupta&theme=tokyonight&column=-1&margin-w=4&margin-h=4&title=Commits,Repositories,Stars,Issues,PullRequest,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning: **Infrastructure as Code, React and MLOps**
 
-- 👯 I’m looking to collaborate on: **Data Science, ML and full stack Software projects** 
+- 🤝 I’m looking to collaborate on: **Data Science, ML and full stack Software projects** 
      
 - 📧 Reach out to me: sammriddhgupta@gmail.com 
 
@@ -48,12 +48,8 @@
      
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammriddhgupta&layout=compact&align=center)](https://github.com/sammriddhgupta/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammriddhgupta&show_icons=true&theme=dark&locale=en&layout=compact" alt="sammriddhgupta" width="auto" height="auto" /></p>
 
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sammriddhgupta&show_icons=true&locale=en" alt="sammriddhgupta" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sammriddhgupta&show_icons=true&theme=dark&locale=en" alt="sammriddhgupta" width="auto" height="auto" /></p>
 
-<br><br>
-
-<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sammriddhgupta&" alt="sammriddhgupta" /></p>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sammriddhgupta&theme=dark" alt="sammriddhgupta" width="auto" height="auto" /></p>
