@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning: **Infrastructure as Code, React and MLOps**
 
-- 🤝 I’m looking to collaborate on: **Data Science, ML and full stack Software projects** 
+- 🤝 I’m looking to collaborate on: **Data Science, ML and full stack Software projects**
+
+- 🤩 Check out my website! https://sammriddhgupta-portfolio.netlify.app/
      
 - 📧 Reach out to me: sammriddhgupta@gmail.com 
 
