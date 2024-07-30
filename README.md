@@ -4,9 +4,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sammriddhgupta&theme=tokyonight&column=-1&margin-w=4&margin-h=4&title=Commits,Repositories,Stars,Issues,PullRequest,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- 🔭 I’m currently working on: **A Stock Analysis Dashboard🤖**
+- 🔭 I’m currently working on: **An LLM Agent/Tool🤖**
 
-- 🌱 I’m currently learning: **Infrastructure as Code, React and MLOps**
+- 🌱 I’m currently learning: **React and MLOps**
 
 - 🤝 I’m looking to collaborate on: **Data Science, ML and full stack Software projects**
 
