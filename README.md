@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sammriddh Gupta</h1>
-<h3 align="center">Software Engineering Student | Machine Learning Enthusiast | Full Stack Developer</h3>
+<h3 align="center">Software Engineer | Machine Learning Enthusiast | Full Stack Developer</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sammriddhgupta&theme=tokyonight&column=-1&margin-w=4&margin-h=4&title=Commits,Repositories,Stars,Issues,PullRequest,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- 🔭 I’m currently working on: **An LLM Agent/Tool🤖**
+- 🔭 I’m currently working on: **MCP server integrations with AI Agents🤖**
 
-- 🌱 I’m currently learning: **React and MLOps**
+- 🌱 I’m currently learning: **MCP (Model Context Protocol)**
 
 - 🤝 I’m looking to collaborate on: **Data Science, ML and full stack Software projects**
 
